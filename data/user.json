@@ -1,0 +1,32 @@
+[
+    {
+        "name": "陈浩",
+        "id": 1,
+        "email": "864171652@qq.com",
+        "phone": "15505908769",
+        "password": null,
+        "departmentId": null,
+        "no": "180327007",
+        "sex": null,
+        "roleId": 1,
+        "modifyBy": 123,
+        "createDate": "123",
+        "createBy": 123,
+        "modifyDate": "123"
+    },
+    {
+        "name": "言笑",
+        "id": 2,
+        "email": "925821946@qq.com",
+        "phone": "13075980823",
+        "password": null,
+        "departmentId": null,
+        "no": "180327060",
+        "sex": null,
+        "roleId": 2,
+        "modifyBy": null,
+        "createDate": null,
+        "createBy": null,
+        "modifyDate": null
+    }
+]
